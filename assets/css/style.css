@@ -1,0 +1,47 @@
+#first
+{
+    background-image: url("../images/cpuc.jpg");
+    background-size: cover;
+}
+#first p
+{
+    color: black;
+    font-size: 10em;
+    text-align: center;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: goldenrod;
+    font-family: 'Bree Serif', serif;
+}
+
+#second
+{
+    background-image: url("../images/neon.jpg");
+    background-size: cover;
+}
+
+#second p
+{
+    font-size: 9em;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #c8b80a;
+    color: #ff1ad4;
+    font-family: 'Bree Serif', serif;
+    text-align: center;
+}
+
+#third
+{
+    background-image: url("../images/rocket.jpg");
+    background-size: cover;
+
+}
+
+#third p
+{
+    font-size: 8.5em;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    color: #decbd7;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #000000;
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ejerciciojquery",
+  "authors": [
+    "FernanMonc <fernandomdsatoutlook.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
